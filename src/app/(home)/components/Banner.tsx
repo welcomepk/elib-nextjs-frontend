@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const Banner = () => {
   return (
-    <div className="container-wrap py-10">
+    <div className="py-10">
       <div className="relative">
         <Image
           src={"/paper-bg.jpg"}
